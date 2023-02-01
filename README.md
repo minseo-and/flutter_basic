@@ -47,7 +47,7 @@ Web View 기술을 사용하여 현존하는 웹사이트를 앱으로 패키징
   - iOS 네이티브 디자인
 - 중복 코드를 클래스로 나누어 코드 정리
 
-<img width="100"  src="https://user-images.githubusercontent.com/80632617/216117505-59ebd410-f343-417c-950d-f4f8b508fa19.gif">
+<img width="1000"  src="https://user-images.githubusercontent.com/80632617/216117505-59ebd410-f343-417c-950d-f4f8b508fa19.gif">
 
 ## 랜덤숫자 생성기
 
