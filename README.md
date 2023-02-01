@@ -62,7 +62,7 @@ Web View 기술을 사용하여 현존하는 웹사이트를 앱으로 패키징
 - Slider 위젯 사용하기
 - Functional 프로그래밍을 활용한 위젯 렌더링 및 코드정리
 
-<umg width="136S" alt="imulator Screen Recording - iPhone 14 Pro Max - 2023-02-02 at 01 30 50" src="https://user-images.githubusercontent.com/80632617/216114488-b8aada54-8cfc-42d9-ae5b-42356fe2f267.gif")
+<img width="136S" alt="imulator Screen Recording - iPhone 14 Pro Max - 2023-02-02 at 01 30 50" src="https://user-images.githubusercontent.com/80632617/216114488-b8aada54-8cfc-42d9-ae5b-42356fe2f267.gif">
 
 
 
