@@ -63,11 +63,7 @@ Web View 기술을 사용하여 현존하는 웹사이트를 앱으로 패키징
 - Functional 프로그래밍을 활용한 위젯 렌더링 및 코드정리
 
 <div display="flex" flex-direction="row">
-        <img src="https://github-readme-stats.vercel.app/api?username=minseo-and&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-        <img src="https://user-images.githubusercontent.com/80632617/216114488-b8aada54-8cfc-42d9-ae5b-42356fe2f267.gif"/>
-        <img width="80%" src=/>
+        <img width="50%" src=https://user-images.githubusercontent.com/80632617/216114488-b8aada54-8cfc-42d9-ae5b-42356fe2f267.gif/>
     </div>
-
-![Simulator Screen Recording - iPhone 14 Pro Max - 2023-02-02 at 01 30 50](https://user-images.githubusercontent.com/80632617/216114488-b8aada54-8cfc-42d9-ae5b-42356fe2f267.gif)
 
 
