@@ -64,10 +64,10 @@ Web View 기술을 사용하여 현존하는 웹사이트를 앱으로 패키징
 
 <div display="flex" flex-direction="row">
         <img src="https://github-readme-stats.vercel.app/api?username=minseo-and&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-        <img src="https://cdn.discordapp.com/attachments/1068190290676035687/1070390889127624875/Simulator_Screen_Recording_-_iPhone_14_Pro_Max_-_2023-02-              02_at_01.22.47.gif"/>
+        <img src="https://user-images.githubusercontent.com/80632617/216114488-b8aada54-8cfc-42d9-ae5b-42356fe2f267.gif"/>
         <img width="80%" src=/>
     </div>
 
-
+![Simulator Screen Recording - iPhone 14 Pro Max - 2023-02-02 at 01 30 50](https://user-images.githubusercontent.com/80632617/216114488-b8aada54-8cfc-42d9-ae5b-42356fe2f267.gif)
 
 
