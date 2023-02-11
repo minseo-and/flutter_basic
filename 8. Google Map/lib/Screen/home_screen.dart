@@ -13,7 +13,8 @@ class _HomeScreenState extends State<HomeScreen> {
   bool checkDone = false;
   GoogleMapController? mapController;
 
-  static const LatLng companyLatLng = LatLng(37.4056, 126.9180);
+  static const LatLng companyLatLng = LatLng(0, 0);
+  // your Lat Lng
 
   static const CameraPosition initialPosition = CameraPosition(
     target: companyLatLng,
@@ -263,7 +264,7 @@ class _CheckButton extends StatelessWidget {
             height: 20,
           ),
           if (!checkDone && isWithinRange)
-            TextButton(onPressed: onPressed, child: Text('출근하기'))
+            TextButton(onPressed: onPressed, child: Text('출근하기zz'))
         ],
       ),
     );
